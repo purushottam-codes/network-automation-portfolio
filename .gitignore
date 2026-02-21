@@ -1,0 +1,7 @@
+*.pkt
+*.gns3
+*.pcap
+*.pcapng
+.vscode/
+*.log
+*.sqlite
